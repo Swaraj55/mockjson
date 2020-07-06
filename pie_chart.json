@@ -1,4 +1,4 @@
-{
+[
         {
             "source": "Network",
             "data": 481036,
@@ -16,4 +16,4 @@
             "data": 91329,
             "url": "https://www.amcharts.com/docs/v4/tutorials/custom-static-multi-value-tooltip/"
         }
-   }
+ ]
